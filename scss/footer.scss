@@ -1,0 +1,28 @@
+.nav {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+    background: #f8f9fa;
+    max-width: 1200px;
+    min-height: 200px;
+    text-decoration: none;
+  
+    .navigation a {
+      text-decoration: none;
+      padding: 10px;
+      color: #4189ff;
+      margin-left: 20px;
+    }
+  
+    .icons i {
+      color: #007bff;
+      padding-left: 1.5em;
+    }
+
+    .rights {
+        margin-left: 30px;
+        margin-top: 15px;
+    }
+  
+}

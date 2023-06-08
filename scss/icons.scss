@@ -1,0 +1,31 @@
+.section-2 {
+    background: #f8f9fa;
+    max-width: 1200px;
+    min-height: 350px;
+  }
+  
+  .field2 {
+    display: flex;
+    min-height: 300px;
+    gap: 50px;
+    flex-direction: row;
+    justify-content: center;
+    align-self: center;
+  
+    img {
+      display: flex;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 70px;
+    }
+  
+    h2 {
+      text-align: center;
+    }
+  
+    p {
+      text-align: center;
+      inline-size: 259px;
+    }
+  }
+  

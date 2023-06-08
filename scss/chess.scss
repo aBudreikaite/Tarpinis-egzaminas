@@ -1,0 +1,35 @@
+
+.chess-section {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+  }
+  
+  .column-right {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  
+    img {
+      width: 586px;
+    }
+  
+    .article-text {
+      margin: 0 60px;
+    }
+  }
+  
+  .column-left {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+  
+    img {
+      width: 614px;
+    }
+  
+    .article-text {
+      margin: 0 60px;
+    }
+  }
+  
